@@ -10,6 +10,10 @@ A growing list of resources that i need to save somewhere
 	- [Create Venv](http://www.pythonforbeginners.com/basics/how-to-use-python-virtualenv/)
 	- [Automatically create requirements.txt](http://www.idiotinside.com/2015/05/10/python-auto-generate-requirements-txt/)
 
+- #Mongo
+	- 
+	- [Pagination in Mongo](https://www.codementor.io/arpitbhayani/fast-and-efficient-pagination-in-mongodb-9095flbqr)	
+
  - #General
 	  - 
 	  - This list was edited/made using [ StackEdit.io](https://stackedit.io/app)
