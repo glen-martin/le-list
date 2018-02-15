@@ -17,3 +17,4 @@ A growing list of resources that i need to save somewhere
  - #General
 	  - 
 	  - This list was edited/made using [ StackEdit.io](https://stackedit.io/app)
+	  - Really nice explanation of [reactive streams](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
