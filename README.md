@@ -14,7 +14,12 @@ A growing list of resources that i need to save somewhere
 	- 
 	- [Pagination in Mongo](https://www.codementor.io/arpitbhayani/fast-and-efficient-pagination-in-mongodb-9095flbqr)	
 
+
+ - #Learning
+	 - 
+	 - LSTM explanation [Colah's Blog](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
  - #General
 	  - 
 	  - This list was edited/made using [ StackEdit.io](https://stackedit.io/app)
 	  - Really nice explanation of [reactive streams](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
+	  - Uploading Library to [JCenter](https://github.com/tntkhang/library-to-bintray) with Bintray
